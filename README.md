@@ -13,4 +13,6 @@ if your game is not listed, pick any game (it won't matter) and simply use elo t
 When picking a drafting mode, Balanced/Greedy is recommended for the best draft possible, with snake being a close second. You cannot currently manually add teams after
 the teams have been generate, or edit existing teams. 
 
+The Bracket Generator takes in the output of the Team Creation script and will create an initial tournament bracket based off the teams made from the Team Creation script. You can then easily put those teams into a separate tournament website: [https://scoreleader.com/bracket/](url)
+
 Enjoy!
